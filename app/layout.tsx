@@ -7,7 +7,7 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'MC iPhones | iPhones Seminovos',
+  title: 'ME iPhones | iPhones Seminovos',
   description: 'Loja especializada em iPhones seminovos com qualidade garantida',
   generator: 'v0.app',
   icons: {
