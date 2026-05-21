@@ -9,7 +9,7 @@ export function Hero() {
         <div className="mb-8">
           <Image
             src="/logo.png"
-            alt="MC iPhones"
+            alt="ME iPhones"
             width={120}
             height={120}
             className="mx-auto"
