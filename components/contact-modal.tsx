@@ -8,7 +8,7 @@ interface ContactModalProps {
   onClose: () => void
 }
 
-const WHATSAPP_NUMBER = "xxxxxxxxx"
+const WHATSAPP_NUMBER = "5511964379799"
 
 export function ContactModal({ product, onClose }: ContactModalProps) {
   if (!product) return null
