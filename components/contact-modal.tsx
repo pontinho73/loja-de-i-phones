@@ -16,7 +16,7 @@ export function ContactModal({ product, onClose }: ContactModalProps) {
   const message = encodeURIComponent(
     `Olá! Tenho interesse no ${product.name} ${product.storage}. Pode me passar mais informações?`
   )
-  const whatsappLink = `https://wa.me/${WHATSAPP_NUMBER}?text=${message}`
+  const whatsappLink = `https://wa.me/${5511964379799}?text=${message}`
 
   return (
     <div className="fixed inset-0 z-50 flex items-center justify-center p-4">
