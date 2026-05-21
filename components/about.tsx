@@ -10,17 +10,17 @@ export function About() {
           <div className="mb-8">
             <Image
               src="/logo.png"
-              alt="MC iPhones"
+              alt="ME iPhones"
               width={80}
               height={80}
               className="mx-auto opacity-80"
             />
           </div>
           <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-6">
-            Sobre a MC iPhones
+            Sobre a ME iPhones
           </h2>
           <p className="text-muted-foreground leading-relaxed mb-6">
-            A MC iPhones é especializada em iPhones seminovos de alta qualidade. 
+            A ME iPhones é especializada em iPhones seminovos de alta qualidade. 
             Todos os nossos aparelhos passam por testes rigorosos para garantir 
             o melhor funcionamento e durabilidade.
           </p>

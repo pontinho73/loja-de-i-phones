@@ -9,13 +9,13 @@ export function Header() {
         <div className="flex items-center gap-3">
           <Image
             src="/logo.png"
-            alt="MC iPhones"
+            alt="ME iPhones"
             width={50}
             height={50}
             className="rounded-lg"
           />
           <span className="text-xl font-semibold tracking-tight text-foreground">
-            MC iPhones
+            ME iPhones
           </span>
         </div>
         <nav className="hidden md:flex items-center gap-8">
